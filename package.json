@@ -2,7 +2,6 @@
   "name": "qrtip",
   "description": "LZM compression of data for creating readable QR",
   "version": "1.0.0",
-  "private": true,
   "author": "Timofey S. Ivaykin, M.Eng",
   "homepage": "",
   "contributors": [ "Timofey Ivaykin <t.s.ivaykin@gmail.com> (https://github.com/Ivajkin)" ],
