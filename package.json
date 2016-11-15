@@ -1,20 +1,26 @@
 {
   "name": "qrtip",
   "description": "LZM compression of data for creating readable QR",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "author": "Timofey S. Ivaykin, M.Eng",
   "homepage": "",
-  "contributors": [ "Timofey Ivaykin <t.s.ivaykin@gmail.com> (https://github.com/Ivajkin)" ],
-  "bugs": { "url": "" },
-  "scripts": { "start": "nodemon app.js" },
-  "dependencies": {
+  "contributors": [
+    "Timofey Ivaykin <t.s.ivaykin@gmail.com> (https://github.com/Ivajkin)"
+  ],
+  "bugs": {
+    "url": ""
   },
-  "devDependencies": {
+  "scripts": {
+    "start": "nodemon app.js"
   },
+  "dependencies": {},
+  "devDependencies": {},
   "keywords": [],
   "repository": "",
-  "licenses": [{
-    "type": "BSD",
-    "url": "https://opensource.org/licenses/BSD-2-Clause"
-  }]
+  "licenses": [
+    {
+      "type": "BSD",
+      "url": "https://opensource.org/licenses/BSD-2-Clause"
+    }
+  ]
 }
