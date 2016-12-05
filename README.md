@@ -8,19 +8,20 @@ LZM compression of data for creating readable QR
 
 ## Scripts
 
-- `decode.min.js` - untip function for QR reading
+- `decode.min.js` - untip function for QR reading, tip function for QR compression
 
 ## Example usage 
 
 ```javascript
+var encodedQR = tip(data);
 var code = untip(encodedQR);
 ```
 
 ## API Reference
 
 `untip(encodedQR)` - decode a text from encoded QR
+`tip(data)` - encode a text to encoded QR
 
 - - - 
 
-NOTE: contact t.s.ivaykin@gmail.com for inquiries
-
+NOTE: contact t.s.ivaykin@gmail.com for inquiries, abzalov.m@samberi.com for code usage examples.
