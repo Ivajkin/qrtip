@@ -1,7 +1,7 @@
 {
   "name": "qrtip",
   "description": "LZM compression of data for creating readable QR",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "author": "Timofey S. Ivaykin, M.Eng",
   "homepage": "",
   "contributors": [
