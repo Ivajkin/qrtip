@@ -20,6 +20,7 @@ var code = untip(encodedQR);
 ## API Reference
 
 `untip(encodedQR)` - decode a text from encoded QR
+
 `tip(data)` - encode a text to encoded QR
 
 - - - 
