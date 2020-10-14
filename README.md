@@ -2,8 +2,6 @@
 LZM compression of data for creating readable QR
 
 [![Build Status](https://travis-ci.org/apiaryio/qrtip.png)](https://travis-ci.org/apiaryio/qrtip)
-[![Dependency Status](https://david-dm.org/apiaryio/qrtip.png)](https://david-dm.org/apiaryio/qrtip)
-[![devDependency Status](https://david-dm.org/apiaryio/qrtip/dev-status.png)](https://david-dm.org/apiaryio/qrtip#info=devDependencies)
 
 Converts linear growth of URLs to logarithmic growth.
 
